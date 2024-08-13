@@ -1,3 +1,3 @@
-# aksamedia_product_detail
+# Aksamedia Product Detail Project
 
-A new Flutter project.
+Project for MSIB Batch 7 Selection at Aksamedia
