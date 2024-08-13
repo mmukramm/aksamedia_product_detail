@@ -1,0 +1,57 @@
+name: aksamedia_product_detail
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Poppins/Poppins-Black.ttf
+        - asset: fonts/Poppins/Poppins-BlackItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-Bold.ttf
+        - asset: fonts/Poppins/Poppins-BoldItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-ExtraBold.ttf
+        - asset: fonts/Poppins/Poppins-ExtraBoldItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-ExtraLight.ttf
+        - asset: fonts/Poppins/Poppins-ExtraLightItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-Light.ttf
+        - asset: fonts/Poppins/Poppins-LightItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-Medium.ttf
+        - asset: fonts/Poppins/Poppins-MediumItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-Regular.ttf
+        - asset: fonts/Poppins/Poppins-Italic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-SemiBold.ttf
+        - asset: fonts/Poppins/Poppins-SemiBoldItalic.ttf
+          style: italic
+        - asset: fonts/Poppins/Poppins-Thin.ttf
+        - asset: fonts/Poppins/Poppins-ThinItalic.ttf
+          style: italic
